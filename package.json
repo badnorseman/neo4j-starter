@@ -1,0 +1,19 @@
+{
+  "name": "neo4j-starter",
+  "version": "1.0.0",
+  "description": "",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "neo4j-driver": "1.1.0-M02",
+    "request": "2.76.0"
+  },
+  "devDependencies": {},
+  "license": "ISC"
+}
